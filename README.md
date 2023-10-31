@@ -18,5 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 This has been derived from learning section of Udemy course provided by Hussain Mustafa,
 However it's a great source to learn the basics of animation in flutter.
 
+<img src="(https://github.com/dhirajchaurasiya10/Anima/assets/106879418/a928f915-7385-4fed-9238-fc02ad8c1123" width="200")
 
 
