@@ -15,6 +15,17 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+# Running this project
+- Clone the project
+- Before runnning the application, run the following command:
+  ```
+  flutter pub get
+  ```
+- Then run the project with the following command:
+  ```
+  flutter run
+  ```
+
 This has been derived from learning section of Udemy course provided by Hussain Mustafa,
 However it's a great source to learn the basics of animation in flutter.
 
